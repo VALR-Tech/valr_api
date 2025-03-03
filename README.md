@@ -5,7 +5,9 @@ A Python client library for the [VALR](https://www.valr.com) cryptocurrency exch
 ## Installation
 
 ```bash
-pip install valr-api
+git clone https://github.com/VALR-Tech/valr_api.git
+cd valr_api
+python setup.py install
 ```
 
 ## Features
